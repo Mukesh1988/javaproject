@@ -13,7 +13,7 @@
 	<artifactId>user-registration-api</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<name>user-registration-api</name>
-	<description>Demo project for Spring Boot and  Security by mukesh</description>
+	<description>This is new added Description here... </description>
 
 	<properties>
 		<java.version>1.8</java.version>
