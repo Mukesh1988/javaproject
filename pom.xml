@@ -12,7 +12,7 @@
 	<groupId>com.mintisoft</groupId>
 	<artifactId>user-registration-api</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<name>user-registration-api</name>
+	<name>user-registration-api</name> 
 	<description>This is new added Description here... </description>
 
 	<properties>
